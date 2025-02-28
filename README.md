@@ -1,4 +1,6 @@
 # abstract_erc721
+This is the source code of this [Youtube Video](https://www.youtube.com/watch?v=tBgRbb4WRUw).
+
 In the root create a `.env` file with:
 ```
 PRIVATE_KEY=your_private_key
